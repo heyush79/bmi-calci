@@ -45,5 +45,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Acknowledgments
 
 BMI calculation formula used: Weight (kg) / (Height (m) * Height (m))
+
 Author
+
 Ayush

@@ -1,4 +1,4 @@
-~BMI Calculator~
+**BMI Calculator**
 Description
 The BMI (Body Mass Index) Calculator is a simple web application that allows users to calculate their BMI based on their height and weight. BMI is a widely used metric to assess whether a person is underweight, normal weight, overweight, or obese.
 
